@@ -1,0 +1,6 @@
+1: leia x
+2: leia lista
+3: para cada valor da lista, faça:
+4: 	se elemento_atual for igual a x:
+5: 		escreva x
+6: fim
