@@ -1,0 +1,5 @@
+1: leia x
+2: var resultado = 1
+3: para todo numero entre 2 e x, faça:
+4: 	resultado = resultado * numero
+5: escreva resultado
