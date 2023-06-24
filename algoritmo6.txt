@@ -1,0 +1,6 @@
+1: leia x
+2: leia exp
+3: var resultado = x
+4: para 1 ate exp, faça:
+5: 	resultado = resultado * x
+6: escreva resultado
